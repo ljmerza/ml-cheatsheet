@@ -699,7 +699,7 @@ Python
 - `nut <https://github.com/pprett/nut>`__ - Natural language Understanding Toolkit
 - `Rosetta <https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit>`__
 - `BLLIP Parser <https://pypi.python.org/pypi/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (also known as the Charniak-Johnson parser>`__
-- `PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA <http://proycon.github.io/folia/>`__, but also ARPA language models, Moses phrasetables, GIZA++ alignments.
+- `PyNLPl <https://github.com/proycon/pynlpl> - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA <http://proycon.github.io/folia/>`__, but also ARPA language models, Moses phrasetables, GIZA++ alignments.
 - `python-ucto <https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages>`__
 - `python-frog <https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER>`__
 - `python-zpar](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar <https://github.com/frcchang/zpar>`__, a statistical part-of-speech-tagger, constiuency parser, and dependency parser for English.
@@ -711,14 +711,15 @@ Python
 - `jellyfish <https://github.com/jamesturk/jellyfish>`__ - a python library for doing approximate and phonetic matching of strings.
 - `editdistance <https://pypi.python.org/pypi/editdistance>`__ - fast implementation of edit distance
 - `textacy <https://github.com/chartbeat-labs/textacy>`__ - higher-level NLP built on Spacy
-- `stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP <https://github.com/stanfordnlp/CoreNLP>`__
+- `stanford-corenlp-python <https://github.com/dasmith/stanford-corenlp-python> - Python wrapper for [Stanford CoreNLP <https://github.com/stanfordnlp/CoreNLP>`__
 
 
 .. rubric:: General-Purpose Machine Learning
 
 - `auto_ml <https://github.com/ClimbsRocks/auto_ml>`__ - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, LightGBM, and soon, deep learning.
-- `machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface <https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s>`__, are stored into a NoSQL datastore.
-- `XGBoost <https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree>`__ Library
+- `machine learning <https://github.com/jeff1evesque/machine-learning> - automated build consisting of a `web-interface 
+<https://github.com/jeff1evesque/machine-learning#web-interface>`, and set of `programmatic-interface <https://github.com/jeff1evesque/machine-learning#programmatic-interface> API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s>`__, are stored into a NoSQL datastore.
+- `XGBoost <https://github.com/dmlc/xgboost> - Python bindings for eXtreme Gradient Boosting (Tree>`__ Library
 - `Bayesian Methods for Hackers <https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers>`__ - Book/iPython notebooks on Probabilistic Programming in Python
 - `Featureforge <https://github.com/machinalis/featureforge>`__ A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
 - `MLlib in Apache Spark <http://spark.apache.org/docs/latest/mllib-guide.html>`__ - Distributed machine learning library in Spark
